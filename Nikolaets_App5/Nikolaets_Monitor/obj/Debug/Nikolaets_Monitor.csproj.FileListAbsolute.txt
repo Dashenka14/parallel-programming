@@ -1,0 +1,8 @@
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\bin\Debug\Nikolaets_Monitor.exe.config
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\bin\Debug\Nikolaets_Monitor.exe
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\bin\Debug\Nikolaets_Monitor.pdb
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\obj\Debug\Nikolaets_Monitor.csproj.AssemblyReference.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\obj\Debug\Nikolaets_Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\obj\Debug\Nikolaets_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\obj\Debug\Nikolaets_Monitor.exe
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_App5\Nikolaets_Monitor\obj\Debug\Nikolaets_Monitor.pdb
