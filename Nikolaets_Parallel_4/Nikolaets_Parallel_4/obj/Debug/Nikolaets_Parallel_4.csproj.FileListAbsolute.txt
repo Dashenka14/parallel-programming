@@ -1,0 +1,8 @@
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\bin\Debug\Nikolaets_Parallel_4.exe.config
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\bin\Debug\Nikolaets_Parallel_4.exe
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\bin\Debug\Nikolaets_Parallel_4.pdb
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\obj\Debug\Nikolaets_Parallel_4.csproj.AssemblyReference.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\obj\Debug\Nikolaets_Parallel_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\obj\Debug\Nikolaets_Parallel_4.csproj.CoreCompileInputs.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\obj\Debug\Nikolaets_Parallel_4.exe
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Nikolaets_Parallel_4\Nikolaets_Parallel_4\obj\Debug\Nikolaets_Parallel_4.pdb
